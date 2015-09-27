@@ -1,0 +1,4 @@
+<resources>
+    <integer name="pref_order_default">0</integer>
+    <integer name="num_movie_columns">2</integer>
+</resources>
